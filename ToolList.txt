@@ -1,3 +1,11 @@
 Performance analysis
 1. LinuxKI Toolset - performance troubleshooting tool for Linux
 	https://github.com/HewlettPackard/LinuxKI
+2. nmon - monitoring key metrics of major hardware and software components in
+real time. E.g. it can be used for monitoring activity of block devices
+	Part of most Linux distributions
+
+Performance benchmarking
+1. fio - I/O benchmarking
+	https://github.com/axboe/fio
+	Included in most Linux distributions
