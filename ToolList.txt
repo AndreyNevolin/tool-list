@@ -10,6 +10,8 @@ Performance benchmarking
 	https://github.com/axboe/fio
 	Included in most Linux distributions
 	
-Video processing
-1. HandBrake
+Photo and video processing
+1. HandBrake - open source video transcoder
 	https://handbrake.fr/
+2. Image composite editor from Microsoft - panoramic stitcher from photos and videos
+	https://www.microsoft.com/en-us/download/details.aspx?id=52459
